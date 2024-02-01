@@ -17,7 +17,7 @@ class _ExampleWidgetState extends State<ExampleWidget> {
           child: Center(
             child: ElevatedButton(
               onPressed: model.doSome,
-              child: const Text('Жми'),
+              child: const Text('Click it'),
             ),
           ),
         ),
